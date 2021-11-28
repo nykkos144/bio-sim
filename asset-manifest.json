@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/bio-sim/static/css/main.a18c9730.chunk.css",
+    "main.js": "/bio-sim/static/js/main.bea6a8f3.chunk.js",
+    "main.js.map": "/bio-sim/static/js/main.bea6a8f3.chunk.js.map",
+    "runtime-main.js": "/bio-sim/static/js/runtime-main.4c7d1bc3.js",
+    "runtime-main.js.map": "/bio-sim/static/js/runtime-main.4c7d1bc3.js.map",
+    "static/js/2.ca04899d.chunk.js": "/bio-sim/static/js/2.ca04899d.chunk.js",
+    "static/js/2.ca04899d.chunk.js.map": "/bio-sim/static/js/2.ca04899d.chunk.js.map",
+    "index.html": "/bio-sim/index.html",
+    "static/css/main.a18c9730.chunk.css.map": "/bio-sim/static/css/main.a18c9730.chunk.css.map",
+    "static/js/2.ca04899d.chunk.js.LICENSE.txt": "/bio-sim/static/js/2.ca04899d.chunk.js.LICENSE.txt",
+    "static/media/bg2.3947f2c1.svg": "/bio-sim/static/media/bg2.3947f2c1.svg",
+    "static/media/blob.892b03b2.svg": "/bio-sim/static/media/blob.892b03b2.svg",
+    "static/media/blobAlb.a9d81542.svg": "/bio-sim/static/media/blobAlb.a9d81542.svg",
+    "static/media/blobCat.a6d8576c.svg": "/bio-sim/static/media/blobCat.a6d8576c.svg",
+    "static/media/blobDown.19876dfe.svg": "/bio-sim/static/media/blobDown.19876dfe.svg",
+    "static/media/blobIll.4f06ec6d.svg": "/bio-sim/static/media/blobIll.4f06ec6d.svg",
+    "static/media/blobKlain.7c9f6255.svg": "/bio-sim/static/media/blobKlain.7c9f6255.svg",
+    "static/media/blobUltra.74bf8b14.svg": "/bio-sim/static/media/blobUltra.74bf8b14.svg",
+    "static/media/btnbg.d7dd55a9.svg": "/bio-sim/static/media/btnbg.d7dd55a9.svg",
+    "static/media/gamebg.d0fe7237.svg": "/bio-sim/static/media/gamebg.d0fe7237.svg",
+    "static/media/grass.149821f9.svg": "/bio-sim/static/media/grass.149821f9.svg",
+    "static/media/grassDivider.d8944b49.svg": "/bio-sim/static/media/grassDivider.d8944b49.svg",
+    "static/media/hammer.cbc6cb5b.svg": "/bio-sim/static/media/hammer.cbc6cb5b.svg",
+    "static/media/move.247ea358.svg": "/bio-sim/static/media/move.247ea358.svg",
+    "static/media/restart.99b8c3d9.svg": "/bio-sim/static/media/restart.99b8c3d9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c7d1bc3.js",
+    "static/js/2.ca04899d.chunk.js",
+    "static/css/main.a18c9730.chunk.css",
+    "static/js/main.bea6a8f3.chunk.js"
+  ]
+}
